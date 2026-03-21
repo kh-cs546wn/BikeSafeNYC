@@ -1,0 +1,21 @@
+{
+  "name": "bikesafenyc",
+  "version": "1.0.0",
+  "description": "BikeSafeNYC",
+  "homepage": "https://github.com/kh-cs546wn/BikeSafeNYC#readme",
+  "bugs": {
+    "url": "https://github.com/kh-cs546wn/BikeSafeNYC/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh-cs546wn/BikeSafeNYC.git"
+  },
+  "license": "ISC",
+  "author": "Group 23",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
