@@ -20,6 +20,7 @@
     "seed": "node ./seed_data/seed.js"
   },
   "dependencies": {
+    "express": "^5.2.1",
     "mongodb": "^7.1.1"
   }
 }
