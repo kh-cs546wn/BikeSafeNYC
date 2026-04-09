@@ -14,3 +14,5 @@ To locally test/develop with MongoDB, use the following setup:
 ![Example](misc_resources/db_connection_example.png)
 
 ### Seed data
+
+Run `npm run seed` in your terminal. You should expect to see an output of: `Seeded data!!!` if all was succesful. 
